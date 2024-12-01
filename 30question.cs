@@ -627,7 +627,7 @@ class HelloWorld {
             Console.WriteLine("updating soon...");
             break;
             default:
-            Console.WriteLine("The Number should be between the range of 1-39.");
+            Console.WriteLine("The Number should be between the range of 1-29.");
             break;
         }
   }
